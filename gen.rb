@@ -1,7 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'awesome_print'
-
 COUNTRIES_MAP = {
   'USA' => [30..60.0, -100.0..-80],
   'RUS' => [40..60.0, 50.0..150],
